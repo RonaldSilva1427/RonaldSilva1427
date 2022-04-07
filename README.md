@@ -1,4 +1,4 @@
-## Oii! Eu sou Ronad Silva
+## Oii! Eu sou Ronald Silva
 
 - 🔭 Estou a procura de uma oportunidade!
 - 🌱 Estudando Python
