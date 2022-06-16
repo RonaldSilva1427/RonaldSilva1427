@@ -1,8 +1,7 @@
 ## Oii! Eu sou Ronald Silva
 
-- 🔭 Estou a procura de uma oportunidade!
-- 🌱 Estudando Python
-
+- 🔭 Estagiario de Ti na Empresa Unimed Sul Mineira
+- 🌱Estudando Python
 
   <div align="center">
   
